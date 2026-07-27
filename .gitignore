@@ -2,3 +2,5 @@
 .vscode/
 local.settings.json
 proj1.code-workspace
+__pycache__/
+.python_packages/
